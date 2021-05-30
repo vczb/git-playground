@@ -2,6 +2,8 @@
 
 ...
 
+#### Clone an issue ? Insert the hash
+
 ##### Required migrations ?
 
 [ ] yes [x] no
