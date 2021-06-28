@@ -1,4 +1,187 @@
-# play-git
+## Git Playground
 
 
 Envie sua PR com qualquer coisa, crie issues faça o que quiser fazer
+
+:octocat: 
+
+### Configurando o git:
+
+_adiciona nome e email_
+
+```
+git config --global user.name "FIRST_NAME LAST_NAME"
+git config --global user.email "email@example.com"
+```
+
+_adiciona VS Code como editor padrão_
+
+```
+git config --global core.editor 'code --wait'
+```
+
+### Comandos úteis:
+
+#### git push
+
+_deleta uma branch remota_
+
+```
+git push origin :nome-da-branch
+```
+
+#### git fetch
+
+_faz sincronização com todos as remotes_
+
+```
+git fetch --all
+```
+
+_faz sincronização com com a remote upstream_
+
+```
+git fetch upstream
+```
+
+#### git reset
+
+_reseta tudo com o último commit salvo na sua branch local_
+
+```
+git reset --hard HEAD
+```
+
+_reseta tudo com o último commit salvo na origin upstream branch main_
+
+```
+git reset --hard upstream/main
+```
+
+#### git rebase
+
+_realinha seu histórico de commit colocando os commits locais por cima dos da origin upstream branch main_
+
+```
+git rebase upstream/main
+```
+
+_realinha seu histórico de commit colocando o commit de hash 5176a1057 por cima dos demais_
+
+```
+git rebase 5176a1057
+```
+
+_faz rebase interativo permitindo mover, mesclar, remover e entre outras ações aos commits_
+
+```
+git rebase -i HEAD~10
+```
+
+#### git amend
+
+_mescla todas as alterações no último commit da sua branch local_
+
+```
+git commit --amend --no-edit
+```
+
+_altera o nome do commit_
+
+```
+git commit --amend -m 'Minha nova mensagem de commit'
+```
+
+#### git reflog
+
+_monitora as referências atualizadas no repositório local_
+
+```
+git reflog
+```
+
+_reflog completo de todas as referências_
+
+```
+ git reflog show --all 
+```
+
+#### git remote
+
+_lista todos os repositórios remotos_
+
+```
+ git remote -v
+```
+
+_adiciona uma url de um repositório git chamada origin_
+
+```
+ git remote add origin git@github.com:vczb/git-playground.git
+```
+
+_remove a origin_
+
+```
+ git remote remove origin
+```
+
+#### git branch
+
+_lista todas as branchs locais_
+
+```
+ git branch -v
+```
+
+#### git checkout 
+
+_reseta o arquivo orange conforme o mesmo arquivo na branch origin/main_
+
+```
+git checkout origin/main -- orange.md
+```
+
+_muda para uma branch existente_
+
+```
+git checkout nome_da_branch
+```
+
+_cria uma nova branch e usa ela_
+
+```
+git checkout -b nome_da_branch
+```
+
+#### git show
+
+_mostra as alterações_
+
+```
+git show
+```
+
+_mostra os arquivos alterados_
+
+```
+git show --name-only
+```
+
+## Artigos:
+
+- [Convenção de commits](https://www.conventionalcommits.org/pt-br/v1.0.0-beta.4/)
+- [A Git Workflow Using Rebase](https://medium.com/singlestone/a-git-workflow-using-rebase-1b1210de83e5)
+- [Manter repositório do Github forkado sincronizado com o original](https://blog.da2k.com.br/2014/01/19/manter-repositorio-github-forkado-sincronizado-com-o-original/)
+
+
+## Interessante:
+
+- [git-flow](https://github.com/petervanderdoes/gitflow-avh)
+- [bash-git-prompt](https://github.com/magicmonty/bash-git-prompt)
+
+## Docs
+
+- [Git](https://git-scm.com/doc)
+- [Github](https://docs.github.com/pt)
+- [Bitbucket](https://www.atlassian.com/git/tutorials)
