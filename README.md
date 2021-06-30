@@ -174,8 +174,7 @@ git show --name-only
 - [A Git Workflow Using Rebase](https://medium.com/singlestone/a-git-workflow-using-rebase-1b1210de83e5)
 - [Manter repositório do Github forkado sincronizado com o original](https://blog.da2k.com.br/2014/01/19/manter-repositorio-github-forkado-sincronizado-com-o-original/)
 
-
-## Interessante:
+## Interessante
 
 - [git-flow](https://github.com/petervanderdoes/gitflow-avh)
 - [bash-git-prompt](https://github.com/magicmonty/bash-git-prompt)
@@ -185,3 +184,4 @@ git show --name-only
 - [Git](https://git-scm.com/doc)
 - [Github](https://docs.github.com/pt)
 - [Bitbucket](https://www.atlassian.com/git/tutorials)
+- [Emojis](https://gist.github.com/rxaviers/7360908)
