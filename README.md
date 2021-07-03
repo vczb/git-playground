@@ -173,13 +173,18 @@ git show --name-only
 - [Convenção de commits](https://www.conventionalcommits.org/pt-br/v1.0.0-beta.4/)
 - [A Git Workflow Using Rebase](https://medium.com/singlestone/a-git-workflow-using-rebase-1b1210de83e5)
 - [Manter repositório do Github forkado sincronizado com o original](https://blog.da2k.com.br/2014/01/19/manter-repositorio-github-forkado-sincronizado-com-o-original/)
+- [Guia: Como contribuir em Open Source](https://willianjusten.com.br/guia-como-contribuir-em-open-source/)
 
-## Interessante
+## Vídeos:
+
+- [Git e Github para iniciantes](https://www.youtube.com/playlist?list=PLlAbYrWSYTiPA2iEiQ2PF_A9j__C4hi0A)
+
+## Interessante:
 
 - [git-flow](https://github.com/petervanderdoes/gitflow-avh)
 - [bash-git-prompt](https://github.com/magicmonty/bash-git-prompt)
 
-## Docs
+## Docs:
 
 - [Git](https://git-scm.com/doc)
 - [Github](https://docs.github.com/pt)
