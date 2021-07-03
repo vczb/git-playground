@@ -178,6 +178,7 @@ git show --name-only
 ## Vídeos:
 
 - [Git e Github para iniciantes](https://www.youtube.com/playlist?list=PLlAbYrWSYTiPA2iEiQ2PF_A9j__C4hi0A)
+- [Como usar Git e Github na prática: Guia para iniciantes](https://www.youtube.com/watch?v=2alg7MQ6_sI)
 
 ## Interessante:
 
