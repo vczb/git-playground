@@ -49,6 +49,14 @@ _apenas merge commits_
 git log --no-merges --oneline
 ```
 
+#### git revert
+
+_cria um commit que desfaz as alterações do commit selecionado_
+
+```
+git revert HASH
+```
+
 #### git push
 
 _deleta uma branch remota_
