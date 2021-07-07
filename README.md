@@ -211,6 +211,14 @@ _move um arquivo e preserva o histórico git dele_
 git mv arquivo destino
 ```
 
+#### git blame
+
+_Exibe metadados do autor anexados a linhas de commit específicas em um arquivo_
+
+
+```
+git blame README.md
+```
 ## Artigos:
 
 - [Convenção de commits](https://www.conventionalcommits.org/pt-br/v1.0.0-beta.4/)
