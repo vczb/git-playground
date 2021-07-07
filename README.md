@@ -235,10 +235,37 @@ git mv arquivo destino
 
 _Exibe metadados do autor anexados a linhas de commit específicas em um arquivo_
 
-
 ```
 git blame README.md
 ```
+
+#### git stash
+
+_Guarda as alterações na branch sem precisar dar commit_
+
+```
+git stash
+```
+
+_Lista as alterações guardadas_
+
+```
+git stash list
+```
+
+_Recupera a última alteração guardada_
+
+```
+git stash pop
+```
+
+_Recupera a alteração guardada de índice "2"_
+
+```
+git stash apply 2
+```
+
+---
 ## Artigos:
 
 - [Convenção de commits](https://www.conventionalcommits.org/pt-br/v1.0.0-beta.4/)
