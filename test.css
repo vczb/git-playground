@@ -13,3 +13,7 @@ h1{
 .container{
     display: flex;
 }
+
+.wrapper {
+    display: grid;
+}
