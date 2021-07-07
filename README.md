@@ -93,6 +93,12 @@ _reseta tudo com o último commit salvo na origin upstream branch main_
 git reset --hard upstream/main
 ```
 
+_desfaz os commits sem perder as alterações_
+
+```
+git reset HASH
+```
+
 #### git rebase
 
 _realinha seu histórico de commit colocando os commits locais por cima dos da origin upstream branch main_
