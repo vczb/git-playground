@@ -203,6 +203,14 @@ _mostra os arquivos alterados_
 git show --name-only
 ```
 
+#### git mv
+
+_move um arquivo e preserva o histórico git dele_
+
+```
+git mv arquivo destino
+```
+
 ## Artigos:
 
 - [Convenção de commits](https://www.conventionalcommits.org/pt-br/v1.0.0-beta.4/)
