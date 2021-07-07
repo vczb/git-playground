@@ -9,3 +9,7 @@ h1{
 .orange{
     background-color: orange;
 }
+
+.container{
+    display: flex;
+}
