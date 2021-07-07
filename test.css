@@ -17,3 +17,7 @@ h1{
 .wrapper {
     display: grid;
 }
+
+.white{
+    color: white;
+}
