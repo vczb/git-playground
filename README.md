@@ -174,6 +174,7 @@ git show --name-only
 - [A Git Workflow Using Rebase](https://medium.com/singlestone/a-git-workflow-using-rebase-1b1210de83e5)
 - [Manter repositório do Github forkado sincronizado com o original](https://blog.da2k.com.br/2014/01/19/manter-repositorio-github-forkado-sincronizado-com-o-original/)
 - [Guia: Como contribuir em Open Source](https://willianjusten.com.br/guia-como-contribuir-em-open-source/)
+- [Mesclagem vs. Rebase](https://www.atlassian.com/br/git/tutorials/merging-vs-rebasing)
 
 ## Vídeos:
 
