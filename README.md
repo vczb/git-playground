@@ -22,6 +22,33 @@ git config --global core.editor 'code --wait'
 
 ### Comandos úteis:
 
+
+#### git log
+
+_log em uma linha e a branch associada_
+
+```
+git log --oneline --decorate
+```
+
+_mostra árvore_
+
+```
+git log --graph --oneline --decorate
+```
+
+_sem merge commits_
+
+```
+git log --no-merges --oneline
+```
+
+_apenas merge commits_
+
+```
+git log --no-merges --oneline
+```
+
 #### git push
 
 _deleta uma branch remota_
