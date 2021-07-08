@@ -117,7 +117,8 @@ _Existem templates para issues_
 Exemplos: 
 
  - [Doc template](https://docs.github.com/pt/communities/using-templates-to-encourage-useful-issues-and-pull-requests/manually-creating-a-single-issue-template-for-your-repository)
- - [Template na prática](https://github.com/vczb/git-playground/issues/templates/edit)
+ - [Adicionar template](https://github.com/vczb/git-playground/issues/templates/edit)
+ = [Ver templates em um projeto](https://github.com/vczb/gamou/tree/main/.github/ISSUE_TEMPLATE)
  - [Pesquisando Issues](https://github.com/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22+)
  - [Doc Pesquisa avançada](https://docs.github.com/pt/github/searching-for-information-on-github/searching-on-github/searching-issues-and-pull-requests)
 - [Filtros](https://github.com/spree/spree/issues)
