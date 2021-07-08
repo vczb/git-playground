@@ -6,6 +6,7 @@
 * Atualizar um PR enviado a um repositório remoto sobrescevendo o commit anterior
 * Atualiar nossa origin baseado em alterações feitas em upstream
 * Acessar um repositório remoto forkado
+* Ver a action na prática
 * Usar o merge e o rebase
 * Fazer um rebase interativo
 * Mover um commit com cherry-pick
