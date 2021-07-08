@@ -99,6 +99,11 @@ _desfaz os commits sem perder as alterações_
 git reset HASH
 ```
 
+_desfaz o último commit sem perder as alterações e os arquivos continuam adicionados na área stage_
+
+```
+git reset --soft HEAD~1
+```
 #### git rebase
 
 _realinha seu histórico de commit colocando os commits locais por cima dos da origin upstream branch main_
