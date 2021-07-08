@@ -132,5 +132,5 @@ _Existem templates para PR_
 _Podem fechar issues_
 
 - [Doc PR](https://docs.github.com/pt/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)
-- [Template](.github/pull_request_template.md)
+- [Template](https://github.com/vczb/gamou/blob/main/.github/pull_request_template.md)
 - [Vincular a uma Issue](https://docs.github.com/pt/issues/tracking-your-work-with-issues/creating-issues/linking-a-pull-request-to-an-issue)
