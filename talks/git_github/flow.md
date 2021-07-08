@@ -8,6 +8,7 @@
 * Acessar um repositório remoto forkado
 * Usar o merge e o rebase
 * Fazer um rebase interativo
+* Mover um commit com cherry-pick
 * Apagar uma branch remota pelo terminal
 * Ver o revert na prática
 * Conhecer os diferentes tipos de reset
