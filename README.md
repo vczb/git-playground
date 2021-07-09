@@ -284,6 +284,7 @@ git stash apply 2
 - [Manter repositório do Github forkado sincronizado com o original](https://blog.da2k.com.br/2014/01/19/manter-repositorio-github-forkado-sincronizado-com-o-original/)
 - [Guia: Como contribuir em Open Source](https://willianjusten.com.br/guia-como-contribuir-em-open-source/)
 - [Mesclagem vs. Rebase](https://www.atlassian.com/br/git/tutorials/merging-vs-rebasing)
+- [Github Flow](https://guides.github.com/introduction/flow/index.html)
 
 ## Vídeos:
 
